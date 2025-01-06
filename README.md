@@ -7,12 +7,12 @@ Este repositorio contiene los archivos de la prueba técnica realizada para OFFC
 ### Estructura del Proyecto
 
 * **SegundaPrueba:**
-  * **main.py:** Script principal encargado de:
+  * **main.py:** Script principal encargado de: Extraer informacion de las Facturas y generar un csv
     * Cargar archivos de facturas en formato [JPG] desde la carpeta `InvoicesExamples`.
   * **InvoicesExamples:** Contiene ejemplos de facturas en el formato especificado.
 
 * **TerceraPrueba:**
-  * **main.py:** Script principal que:
+  * **main.py:** Script principal que: Verifica anomalias y genera un nuevo csv depurado
     * Carga el archivo `sales_data.csv` desde la carpeta `csv`.
   * **csv:** Contiene el archivo `sales_data.csv` con datos de ventas en formato CSV.
 
