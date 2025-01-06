@@ -27,8 +27,4 @@ Este repositorio contiene los archivos de la prueba técnica realizada para OFFC
   * [Lista de librerías, e.g., pandas, numpy, matplotlib]
   * Instalar con `pip install -r requirements.txt`.
 
-### Ejecución
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://[tu_repositorio]
