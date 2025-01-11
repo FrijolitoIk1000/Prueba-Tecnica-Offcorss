@@ -18,7 +18,7 @@ Este repositorio contiene los archivos de la prueba técnica realizada para OFFC
 
 ### Requisitos Previos
 
-* **Python:** Versión [versión de Python].
+* **Python:** Versión 3.11.
 * **Librerías:**
   * [pandas,easyocr]
   * Instalar con `pip install -r requirements.txt`.
